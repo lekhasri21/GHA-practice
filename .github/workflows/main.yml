@@ -16,5 +16,5 @@ jobs:
       - name: Get Your Code
         uses: actions/checkout@v2
 
-      - name: Say Hello to the World
+      - name: Say Hello to  World
         run: echo "Hello, World!"
